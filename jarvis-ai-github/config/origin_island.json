@@ -1,0 +1,18 @@
+{
+    "enabled": true,
+    "preset": "custom",
+    "x": 584,
+    "y": 0,
+    "width": 373,
+    "height": 45,
+    "bg_color": "#06090e",
+    "bg_opacity": 0.94,
+    "accent_color": "#ffb703",
+    "border_enabled": false,
+    "border_color": "#64748b",
+    "border_width": 1,
+    "border_glow": true,
+    "custom_speaking_gif": "",
+    "custom_listening_gif": "",
+    "custom_idle_gif": ""
+}

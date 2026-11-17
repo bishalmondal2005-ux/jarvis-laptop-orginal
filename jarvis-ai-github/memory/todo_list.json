@@ -1,0 +1,18 @@
+﻿[
+  {
+    "id": "example-task-1",
+    "text": "Review today's goals",
+    "date": null,
+    "time": "10:00",
+    "completed": false,
+    "created_at": "2026-11-17T09:00:00"
+  },
+  {
+    "id": "example-task-2",
+    "text": "Project presentation reminder",
+    "date": "2026-12-01",
+    "time": null,
+    "completed": false,
+    "created_at": "2026-11-17T09:00:00"
+  }
+]
